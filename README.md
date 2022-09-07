@@ -56,16 +56,6 @@
 
 职工权限受限，只可查看部门、用户、职位、公告等信息，不能修改或者添加。
 
-## 5、获取方式
-
-扫描下方，回复 “**员工0** ” ，以获取源码
-
-
-
-![https://gitee.com/二维码](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220507213933.jpg)
-
-
-
 
 
 
