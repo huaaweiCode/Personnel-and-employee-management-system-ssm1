@@ -56,7 +56,11 @@
 
 职工权限受限，只可查看部门、用户、职位、公告等信息，不能修改或者添加。
 
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：员工
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
 
 
